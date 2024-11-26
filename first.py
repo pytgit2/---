@@ -1,1 +1,1 @@
-"<Братск>-<Муравин>"
+print("My first git-repo")
